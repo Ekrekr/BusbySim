@@ -6,7 +6,7 @@ File issues and feature requests for BusbySim on the [issues tab](https://github
 
 Please attach the relevant label for your issue. The enhancement label is for feature requests.
 
-![/labels-example.png](use labels to categorise filed issues)
+![use labels to categorise filed issues](/labels-example.png)
 
 If you're filing a bug, include the minimal example to reproduce the issue.
 
